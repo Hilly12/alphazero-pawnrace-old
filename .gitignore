@@ -1,0 +1,15 @@
+*.pyc
+.DS_Store
+
+__pycache__
+/temp/
+/.project
+/.pydevproject
+
+# checkpoint
+checkpoints/
+
+.vscode
+.idea
+
+venv
